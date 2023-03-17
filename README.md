@@ -23,7 +23,7 @@
 
 ## :star2: My Projects: 
 ## With React
-- <a href="https://tuncay-firebase-react-context-blogapp.netlify.app/" target="_blank" >React-Context-Fireabase-Blog-App</a>
+- <a href="https://tuncay-firebase-react-context-blogapp.netlify.app/" target="_blank" >React-Context-Firebase-Blog-App</a>
 - <a href="https://tuncay-arican-todo-list-with-redux.netlify.app/" target="_blank" >React-Redux-To-Do-List</a>
 - <a href="https://tuncayaricanreactmovieapp.netlify.app/" target="_blank" >React-Movie-App-Firebase</a>
 - <a href="https://tuncayaricanrecipeapp.netlify.app/" target="_blank" >React-Recipe-App</a>
