@@ -1,4 +1,4 @@
-[![MasterHead](./github-header-image.png)] 
+![MasterHead](./github-header-image.png) 
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate frontend developer from Turkey and crafting responsive and intuitive web experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mrzdnboun@gmail.com**
 
-- ⚡ Fun fact **did you know that the first website ever published, back in 1991, was dedicated to providing information about the World Wide Web project? It was a simple page with black text on a white background, and it didn't even have any images! Today, front-end web development has come a long way, with stunning designs, complex animations, and sophisticated user experiences.**
+- ⚡ Fun fact **=> Did you know that the first website ever published, back in 1991, was dedicated to providing information about the World Wide Web project? It was a simple page with black text on a white background, and it didn't even have any images! Today, front-end web development has come a long way, with stunning designs, complex animations, and sophisticated user experiences.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
