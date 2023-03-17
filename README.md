@@ -60,6 +60,4 @@
 
 
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreozdin&show_icons=true&locale=en" alt="emreozdin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreozdin&" alt="emreozdin" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreozdin&show_icons=true&locale=en" alt="emreozdin" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreozdin&" alt="emreozdin" /></p>
