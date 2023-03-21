@@ -38,7 +38,7 @@
 
 ## With JavaScript
 
-- <a href="https://tuncayarican.github.io/Find_the_Number_Game/" target="_blank" >Guess-The-Number-Game</a>
+- <a href="https://emreozdin.github.io/-001-find-the-number/" target="_blank" >Guess-The-Number-Game</a>
 - <a href="https://tuncayarican.github.io/IOS-Calculator/" target="_blank" >IOS-Calculator</a>
 - <a href="https://tuncayarican.github.io/Weather-App/" target="_blank" >Weather-App</a>
 - <a href="https://tuncayarican.github.io/Movie_seat_app/" target="_blank" >Movie-Seat-App</a>
