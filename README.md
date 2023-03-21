@@ -27,7 +27,7 @@
 ## <img align="top" alt="react" width="50" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/dec-01-2019_19-16-16.gif">With React
 - <a href="https://tuncay-firebase-react-context-blogapp.netlify.app/" target="_blank" >React-Context-Firebase-Blog-App</a>
 - <a href="https://tuncay-arican-todo-list-with-redux.netlify.app/" target="_blank" >React-Redux-To-Do-List</a>
-- <a href="https://tuncayaricanreactmovieapp.netlify.app/" target="_blank" >React-Movie-App-Firebase</a>
+- <a href="https://emreozdin-react-movie-app.netlify.app/" target="_blank" >React-Movie-App-Firebase</a>
 - <a href="https://tuncayaricanrecipeapp.netlify.app/" target="_blank" >React-Recipe-App</a>
 - <a href="https://tuncayarican-firebase-contact.netlify.app/" target="_blank" >Firebase-Contact-List</a>
 - <a href="https://tuncayarican-react-axios-addtutorial.netlify.app/" target="_blank" >React-Axios-Add-Tutorial</a>
