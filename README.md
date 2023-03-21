@@ -21,8 +21,10 @@
 
 ## <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
-## :star2: My Projects: 
-## With React
+## <img align="top" alt="project" width="60" src="https://cdn.dribbble.com/users/410036/screenshots/2128761/media/1d4ad4a706c7f870864273fa652b1880.gif">My Projects: 
+
+ 
+## <img align="top" alt="react" width="50" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/dec-01-2019_19-16-16.gif">With React
 - <a href="https://tuncay-firebase-react-context-blogapp.netlify.app/" target="_blank" >React-Context-Firebase-Blog-App</a>
 - <a href="https://tuncay-arican-todo-list-with-redux.netlify.app/" target="_blank" >React-Redux-To-Do-List</a>
 - <a href="https://tuncayaricanreactmovieapp.netlify.app/" target="_blank" >React-Movie-App-Firebase</a>
@@ -35,8 +37,7 @@
 - <a href="https://languagecardtuncayarican.netlify.app" target="_blank" >React-Basic-Language-Card</a>
 - <a href="https://tuncayarican.github.io/React_basic_project/" target="_blank" >React-Basic-Watch and Date</a>
 
-
-## With JavaScript
+## <img align="left" alt="javascript" width="30" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">With JavaScript
 
 - <a href="https://emreozdin.github.io/js-1-find-the-number/" target="_blank" >Guess The Number Game</a>
 - <a href="https://emreozdin.github.io/js-2-to-do-app" target="_blank" >To Do List</a>
