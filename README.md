@@ -39,15 +39,14 @@
 ## With JavaScript
 
 - <a href="https://emreozdin.github.io/js-1-find-the-number/" target="_blank" >Guess-The-Number-Game</a>
-- <a href="https://emreozdin.github.io/js-3-ios-calculator/" target="_blank" >IOS-Calculator</a>
-- <a href="https://tuncayarican.github.io/Weather-App/" target="_blank" >Weather-App</a>
-- <a href="https://tuncayarican.github.io/Movie_seat_app/" target="_blank" >Movie-Seat-App</a>
 - <a href="https://emreozdin.github.io/js-2-to-do-app" target="_blank" >To-Do-List</a>
-- <a href="https://tuncayarican.github.io/Score_Keeper_JS_events/" target="_blank" >Score-Keeper</a>
-- <a href="https://tuncayarican.github.io/Stop_watch/" target="_blank" >Stop-Watch</a>
-- <a href="https://tuncayarican.github.io/Digital_Clock/" target="_blank" >Digital-Clock</a>
+- <a href="https://emreozdin.github.io/js-3-ios-calculator/" target="_blank" >IOS-Calculator</a>
+- <a href="https://emreozdin.github.io/js-4-lottery-game" target="_blank" >To-Do-List</a>
+- <a href="https://emreozdin.github.io/js-5-checkout-page" target="_blank" >To-Do-List</a>
+- <a href="https://emreozdin.github.io/js-6-digital-clock/" target="_blank" >Digital-Clock</a>
+- <a href="https://emreozdin.github.io/js-7-movie-seat-app/" target="_blank" >Movie-Seat-App</a>
+- <a href="https://emreozdin.github.io/js-8-weather-app/" target="_blank" >Weather-App</a>
+- <a href="https://emreozdin.github.io/js-9-exact-age-calculator/" target="_blank" >Movie-Seat-App</a>
 
-
- 
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreozdin&show_icons=true&locale=en" alt="emreozdin" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreozdin&" alt="emreozdin" /></p>
