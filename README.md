@@ -42,22 +42,12 @@
 - <a href="https://tuncayarican.github.io/IOS-Calculator/" target="_blank" >IOS-Calculator</a>
 - <a href="https://tuncayarican.github.io/Weather-App/" target="_blank" >Weather-App</a>
 - <a href="https://tuncayarican.github.io/Movie_seat_app/" target="_blank" >Movie-Seat-App</a>
-- <a href="https://tuncayarican.github.io/002-To-Do-List_App/" target="_blank" >To-Do-List</a>
+- <a href="https://emreozdin.github.io/-002-to-do-app" target="_blank" >To-Do-List</a>
 - <a href="https://tuncayarican.github.io/Score_Keeper_JS_events/" target="_blank" >Score-Keeper</a>
 - <a href="https://tuncayarican.github.io/Stop_watch/" target="_blank" >Stop-Watch</a>
 - <a href="https://tuncayarican.github.io/Digital_Clock/" target="_blank" >Digital-Clock</a>
 
 
  
-## With CSS/SCSS
-- <a href="https://tuncayarican.github.io/SASS_project/" target="_blank" >SASS-Project-Profile</a>
-- <a href="https://tuncayarican.github.io/Parallax_website/" target="_blank" >Parallax-Website</a>
-- <a href="https://tuncayarican.github.io/Netflix_Survey_Form/" target="_blank" >Netflix_Clone</a>
-- <a href="https://tuncayarican.github.io/Google-Landing-Page/" target="_blank" >Google-Landing-Page</a>
-- <a href="https://tuncayarican.github.io/Job-Application-Form/" target="_blank" >Job-Application-Form</a>
-- <a href="https://tuncayarican.github.io/Clarusway_Survey_Form/" target="_blank" >Survey-Form</a>
-
-
-
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreozdin&show_icons=true&locale=en" alt="emreozdin" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreozdin&" alt="emreozdin" /></p>
