@@ -38,11 +38,11 @@
 
 ## With JavaScript
 
-- <a href="https://emreozdin.github.io/1-find-the-number/" target="_blank" >Guess-The-Number-Game</a>
-- <a href="https://emreozdin.github.io/3-ios-calculator/" target="_blank" >IOS-Calculator</a>
+- <a href="https://emreozdin.github.io/js-1-find-the-number/" target="_blank" >Guess-The-Number-Game</a>
+- <a href="https://emreozdin.github.io/js-3-ios-calculator/" target="_blank" >IOS-Calculator</a>
 - <a href="https://tuncayarican.github.io/Weather-App/" target="_blank" >Weather-App</a>
 - <a href="https://tuncayarican.github.io/Movie_seat_app/" target="_blank" >Movie-Seat-App</a>
-- <a href="https://emreozdin.github.io/2-to-do-app" target="_blank" >To-Do-List</a>
+- <a href="https://emreozdin.github.io/js-2-to-do-app" target="_blank" >To-Do-List</a>
 - <a href="https://tuncayarican.github.io/Score_Keeper_JS_events/" target="_blank" >Score-Keeper</a>
 - <a href="https://tuncayarican.github.io/Stop_watch/" target="_blank" >Stop-Watch</a>
 - <a href="https://tuncayarican.github.io/Digital_Clock/" target="_blank" >Digital-Clock</a>
