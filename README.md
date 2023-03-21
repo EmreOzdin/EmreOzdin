@@ -47,7 +47,6 @@
 - <a href="https://emreozdin.github.io/js-6-digital-clock/" target="_blank" >Digital Clock</a>
 - <a href="https://emreozdin.github.io/js-7-movie-seat-app/" target="_blank" >Movie Seat App</a>
 - <a href="https://emreozdin.github.io/js-8-weather-app/" target="_blank" >Weather App</a>
-- <a href="https://emreozdin.github.io/js-9-exact-age-calculator/" target="_blank" >Exact Age Calculator</a>
 
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreozdin&show_icons=true&locale=en" alt="emreozdin" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreozdin&" alt="emreozdin" /></p>
