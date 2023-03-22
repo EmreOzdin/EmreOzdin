@@ -29,6 +29,7 @@
 - <a href="https://emreozdin-tour-places.netlify.app/" target="_blank" >Tour-Places-SCSS</a>
 - <a href="https://emreozdin-task-tracker.netlify.app/" target="_blank" >React-To-Do-List</a>
 - <a href="https://emreozdin-language-cards.netlify.app" target="_blank" >React-Basic-Language-Card</a>
+- <a href="https://emreozdin-random-user.netlify.app/" target="_blank" >React-Random-User</a>
  
 - <a href="https://tuncay-firebase-react-context-blogapp.netlify.app/" target="_blank" >React-Context-Firebase-Blog-App</a>
 - <a href="https://tuncay-arican-todo-list-with-redux.netlify.app/" target="_blank" >React-Redux-To-Do-List</a>
@@ -36,7 +37,6 @@
 - <a href="https://tuncayaricanrecipeapp.netlify.app/" target="_blank" >React-Recipe-App</a>
 - <a href="https://tuncayarican-firebase-contact.netlify.app/" target="_blank" >Firebase-Contact-List</a>
 - <a href="https://tuncayarican-react-axios-addtutorial.netlify.app/" target="_blank" >React-Axios-Add-Tutorial</a>
-- <a href="https://tuncayarican-random-user.netlify.app/" target="_blank" >React-Random-User</a>
 - <a href="https://tuncayarican.github.io/React_basic_project/" target="_blank" >React-Basic-Watch and Date</a>
 
 ## <img align="left" alt="javascript" width="30" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">With JavaScript
