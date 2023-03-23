@@ -30,6 +30,7 @@
 - <a href="https://emreozdin-task-tracker.netlify.app/" target="_blank" >React-To-Do-List</a>
 - <a href="https://emreozdin-language-cards.netlify.app" target="_blank" >React-Basic-Language-Card</a>
 - <a href="https://emreozdin-random-user.netlify.app/" target="_blank" >React-Random-User</a>
+- <a href="https://emreozdin-recipe-app.netlify.app/" target="_blank" >React-Recipe-App</a>
  
 - <a href="https://tuncay-firebase-react-context-blogapp.netlify.app/" target="_blank" >React-Context-Firebase-Blog-App</a>
 - <a href="https://tuncay-arican-todo-list-with-redux.netlify.app/" target="_blank" >React-Redux-To-Do-List</a>
