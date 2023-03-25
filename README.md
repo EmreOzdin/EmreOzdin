@@ -33,6 +33,7 @@
 - <a href="https://emreozdin-recipe-app.netlify.app/" target="_blank" >React-Recipe-App</a>
 - <a href="https://emreozdin-react-movie-app.netlify.app/" target="_blank" >React-Movie-App-Firebase</a>
 - <a href="https://emreozdin-firebase-contact.netlify.app/" target="_blank" >Firebase-Contact-List</a>
+- <a href="https://emreozdin-cart-app.netlify.app/" target="_blank" >React-useReducer-Cart-App</a>
  
 - <a href="https://tuncay-firebase-react-context-blogapp.netlify.app/" target="_blank" >React-Context-Firebase-Blog-App</a>
 - <a href="https://tuncay-arican-todo-list-with-redux.netlify.app/" target="_blank" >React-Redux-To-Do-List</a>
