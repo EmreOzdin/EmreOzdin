@@ -31,9 +31,9 @@
 - <a href="https://emreozdin-language-cards.netlify.app" target="_blank" >React-Basic-Language-Card</a>
 - <a href="https://emreozdin-random-user.netlify.app/" target="_blank" >React-Random-User</a>
 - <a href="https://emreozdin-recipe-app.netlify.app/" target="_blank" >React-Recipe-App</a>
-- <a href="https://emreozdin-react-movie-app.netlify.app/" target="_blank" >React-Movie-App-Firebase</a>
-- <a href="https://emreozdin-firebase-contact.netlify.app/" target="_blank" >Firebase-Contact-List</a>
-- <a href="https://emreozdin-cart-app.netlify.app/" target="_blank" >React-useReducer-Cart-App</a>
+- <a href="https://emreozdin-react-movie-app.netlify.app/" target="_blank" >React-Movie-App(Firebase)</a>
+- <a href="https://emreozdin-firebase-contact.netlify.app/" target="_blank" >Contact-List(Firebase)</a>
+- <a href="https://emreozdin-cart-app.netlify.app/" target="_blank" >React-Cart-App(useReducer)</a>
 
 ## <img align="left" alt="javascript" width="30" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">With JavaScript
 
