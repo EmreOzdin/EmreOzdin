@@ -28,6 +28,7 @@
  
 - <a href="https://emreozdin-tour-places.netlify.app/" target="_blank" >Tour-Places-SCSS</a>
 - <a href="https://emreozdin-task-tracker.netlify.app/" target="_blank" >React-To-Do-List</a>
+- <a href="https://emre-ozdin-task-tracker-vite.netlify.app/" target="_blank" >React-To-Do-List (Vite)</a>
 - <a href="https://emreozdin-language-cards.netlify.app" target="_blank" >React-Basic-Language-Card</a>
 - <a href="https://emreozdin-random-user.netlify.app/" target="_blank" >React-Random-User</a>
 - <a href="https://emreozdin-recipe-app.netlify.app/" target="_blank" >React-Recipe-App</a>
