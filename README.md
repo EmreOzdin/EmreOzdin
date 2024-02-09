@@ -37,7 +37,7 @@
 - <a href="https://emreozdin-cart-app.netlify.app/" target="_blank" >React-Cart-App(useReducer)</a>
 - <a href="https://lenslight--tr-c0c1e31aef6b.herokuapp.com/" target="_blank" >Lenslight-App-MERN (Heroku)</a>
 
-## <img align="top" alt="react" width="50" src="[https://cdn.dribbble.com/users/2442115/screenshots/8699490/dec-01-2019_19-16-16.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nelapatihezron66%2Ftop-must-used-react-native-libraries-with-examples-d9d44246b01c&psig=AOvVaw1kJxivqrxE5Z99urEYMMJj&ust=1707556981554000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiP5sz3nYQDFQAAAAAdAAAAABAE)">With React Native
+## <img align="top" alt="react" width="50" src="[[https://cdn.dribbble.com/users/2442115/screenshots/8699490/dec-01-2019_19-16-16.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nelapatihezron66%2Ftop-must-used-react-native-libraries-with-examples-d9d44246b01c&psig=AOvVaw1kJxivqrxE5Z99urEYMMJj&ust=1707556981554000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiP5sz3nYQDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Freact-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-PNG-free-PNG-Images_163076&psig=AOvVaw1W7iSu8xJcLxTtdFFPXKz2&ust=1707557120148000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCh7Y74nYQDFQAAAAAdAAAAABAE)">With React Native
  
 - <a href="https://emreozdin-tour-places.netlify.app/" target="_blank" >Mini Game App (Guess The Number) </a>
 
