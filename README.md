@@ -1,4 +1,4 @@
-![MasterHead](./github-header-image.png)<h1 align="center">Hi , I'm Emre <img align="center" alt="Coding" width="40" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
+![MasterHead](./github-header-image.png)<h1 align="center">Hi , I'm Emre <img align="center" alt="Coding" width="40" src="https://dribbble.com/shots/3848914-Programmer-Thomas"></h1>
 
 <h3 align="center">A passionate frontend developer from Turkey  <img align="center" alt="Coding" width="50" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
