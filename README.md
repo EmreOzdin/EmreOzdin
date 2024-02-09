@@ -37,7 +37,7 @@
 - <a href="https://emreozdin-cart-app.netlify.app/" target="_blank" >React-Cart-App(useReducer)</a>
 - <a href="https://lenslight--tr-c0c1e31aef6b.herokuapp.com/" target="_blank" >Lenslight-App-MERN (Heroku)</a>
 
-## <img align="top" alt="react" width="50" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png">With React Native
+## <img align="top" alt="react-native" width="30" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png">With React Native
  
 - <a href="https://emreozdin-tour-places.netlify.app/" target="_blank" >Mini Game App (Guess The Number) </a>
 
