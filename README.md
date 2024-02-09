@@ -24,7 +24,7 @@
 ## <img align="top" alt="project" width="60" src="https://cdn.dribbble.com/users/410036/screenshots/2128761/media/1d4ad4a706c7f870864273fa652b1880.gif">My Projects: 
 
  
-## <img align="top" alt="react" width="50" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/dec-01-2019_19-16-16.gif">With React
+## <img align="left" alt="react" width="50" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/dec-01-2019_19-16-16.gif">With React
  
 - <a href="https://emreozdin-tour-places.netlify.app/" target="_blank" >Tour-Places-SCSS</a>
 - <a href="https://emreozdin-task-tracker.netlify.app/" target="_blank" >React-To-Do-List</a>
