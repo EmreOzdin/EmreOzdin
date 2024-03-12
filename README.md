@@ -40,6 +40,8 @@
 ## <img align="left" alt="react-native" width="30" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png">With React Native
  
 - <a href="https://github.com/EmreOzdin/1.-GuessTheNumber" target="_blank" >Mini Game App (Guess The Number) </a>
+- <a href="https://github.com/EmreOzdin/2.-MealsApp" target="_blank" >Mini App (Meal App) </a>
+
 
 ## <img align="left" alt="javascript" width="30" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">With JavaScript
 
