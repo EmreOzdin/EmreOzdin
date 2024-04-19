@@ -42,7 +42,8 @@
 - <a href="https://github.com/EmreOzdin/1.-GuessTheNumber" target="_blank" >Mini Game App (Guess The Number) </a>
 - <a href="https://github.com/EmreOzdin/2.-MealsApp" target="_blank" >Mini App (Meal App) </a>
 - <a href="https://github.com/EmreOzdin/3-TheExpenseApp" target="_blank" >The Expense App </a>
-- <a href="https://github.com/EmreOzdin/4-User-Authentication" target="_blank" >User Authentication </a>
+- <a href="https://github.com/EmreOzdin/4-User-Authentication" target="_blank" >User Authentication App</a>
+- <a href="https://github.com/EmreOzdin/5-PlacesApp" target="_blank" >Places App </a>
 
 
 ## <img align="left" alt="javascript" width="30" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">With JavaScript
